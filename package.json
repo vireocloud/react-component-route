@@ -1,0 +1,15 @@
+{
+  "name": "react-component-route",
+  "version": "0.0.1",
+  "description": "Middleware for Express so react components can be served from a route.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:frankieorourke/react-component-route.git"
+  },
+  "author": "orourkedd",
+  "license": "MIT"
+}
