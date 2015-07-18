@@ -1,5 +1,5 @@
 {
-  "name": "react-component-route",
+  "name": "@orourkedd/react-component-route",
   "version": "0.0.1",
   "description": "Middleware for Express so react components can be served from a route.",
   "main": "index.js",
@@ -11,5 +11,9 @@
     "url": "git@bitbucket.org:frankieorourke/react-component-route.git"
   },
   "author": "orourkedd",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.0",
+    "react": "^0.13.3"
+  }
 }
