@@ -1,6 +1,6 @@
 {
   "name": "@orourkedd/react-component-route",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Middleware for Express so react components can be served from a route.",
   "main": "index.js",
   "scripts": {
